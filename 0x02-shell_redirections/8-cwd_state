@@ -1,0 +1,2 @@
+#!/bin/bash
+ech "ls -la" > ls_Cwd_content
